@@ -17,3 +17,5 @@ Extra materials for plugin development
 14. Of course, the PaperMC server to use: https://papermc.io/
 15. Paper API docs: https://jd.papermc.io/paper/1.16/
 16. IntelliJ Idea (Java IDE): https://www.jetbrains.com/idea/
+
++ The workshop presentation (ecocraft.pdf)
